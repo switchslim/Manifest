@@ -17,7 +17,7 @@
            revision="ics" />
 
  <remote name="slim"
-           fetch="https://github.com/krarvind/"
+           fetch="https://github.com/switchslim/"
            revision="master" />
 
   <default revision="master"
